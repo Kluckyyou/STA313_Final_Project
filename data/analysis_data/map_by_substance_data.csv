@@ -1,0 +1,780 @@
+emit_way,substance,unit,total_quantity
+Releases to Air,"1,1,2,2-Tetrachloroethane",grams,3202000
+Releases to Air,"1,1,2-Trichloroethane",grams,23478000
+Releases to Air,"1,1-Methylenebis(4-isocyanatocyclohexane)",grams,7000
+Releases to Air,"1,2,4-Trichlorobenzene",grams,41820552
+Releases to Air,"1,2,4-Trimethylbenzene",grams,19560249483
+Releases to Air,"1,2-Butylene oxide",grams,204000
+Releases to Air,"1,2-Dichloroethane",grams,179527471
+Releases to Air,"1,2-Dichloropropane",grams,10400
+Releases to Air,"1,3-Butadiene",grams,2302511949
+Releases to Air,"1,4-Benzenediamine, N,N'-mixed phenyl and tolyl derivatives",grams,6697.76
+Releases to Air,"1,4-Dioxane",grams,103577700
+Releases to Air,1-Nitropyrene,grams,28119.199999999997
+Releases to Air,"2,4-Dinitrotoluene",grams,23080000
+Releases to Air,"2,6-Di-t-butyl-4-methylphenol",grams,11854000
+Releases to Air,2-(2-Methoxyethoxy)ethanol,grams,179797
+Releases to Air,2-Butoxyethanol,grams,15944369713
+Releases to Air,2-Ethoxyethanol,grams,110233100
+Releases to Air,2-Ethoxyethyl acetate,grams,203738000
+Releases to Air,2-Mercaptobenzothiazole,grams,15502100
+Releases to Air,2-Methoxyethanol,grams,125038600
+Releases to Air,"2-Propanone, reaction products with diphenylamine",grams,607032.902
+Releases to Air,3-Methylcholanthrene,grams,10447.84900000001
+Releases to Air,5-Methylchrysene,grams,5429.500000000002
+Releases to Air,"7,12-Dimethylbenz[a]anthracene",grams,28989.368
+Releases to Air,"7H-Dibenzo[c,g]carbazole",grams,3177220.1259999992
+Releases to Air,Acenaphthene,grams,131769305.254
+Releases to Air,Acenaphthylene,grams,381198795.2440003
+Releases to Air,Acetaldehyde,grams,23314205409
+Releases to Air,Acetone,grams,22629093000
+Releases to Air,Acetonitrile,grams,943786100
+Releases to Air,Acetophenone,grams,115238400
+Releases to Air,Acrolein,grams,2438424698
+Releases to Air,Acrylamide,grams,6904459
+Releases to Air,Acrylic acid (and its salts),grams,56849486
+Releases to Air,Acrylonitrile,grams,272461844.7
+Releases to Air,"Alkanes, C10-13, chloro",grams,0
+Releases to Air,Allyl alcohol,grams,2649500
+Releases to Air,Aluminum (fume or dust only),grams,5686670127
+Releases to Air,Aluminum oxide (fibrous forms only),grams,60282344
+Releases to Air,Ammonia (total),grams,514586112117
+Releases to Air,Ammonium nitrate (solution),grams,547148000
+Releases to Air,Ammonium sulfate (solution),grams,255298000
+Releases to Air,Aniline (and its salts),grams,1602200
+Releases to Air,Anthracene,grams,282357461.924
+Releases to Air,Antimony (and its compounds),grams,141187813
+Releases to Air,Arsenic (and its compounds),grams,2643847022.3199997
+Releases to Air,Asbestos,grams,707000
+Releases to Air,Asbestos (friable form only),grams,4914200
+Releases to Air,Benz[a]anthracene,grams,231356706.96
+Releases to Air,Benzene,grams,30128774184
+Releases to Air,Benzo[a]pyrene,grams,169453062.95499986
+Releases to Air,Benzo[b]fluoranthene,grams,333114312.11100054
+Releases to Air,Benzo[e]pyrene,grams,262347738.99599996
+Releases to Air,Benzo[ghi]perylene,grams,125399148.20000009
+Releases to Air,Benzo[j]fluoranthene,grams,61278281.453000054
+Releases to Air,Benzo[k]fluoranthene,grams,119669867.60399985
+Releases to Air,Benzoyl peroxide,grams,145060
+Releases to Air,Benzyl chloride,grams,76000
+Releases to Air,Biphenyl,grams,238913510
+Releases to Air,Bis(2-ethylhexyl) adipate,grams,64148500
+Releases to Air,Bis(2-ethylhexyl) phthalate,grams,227142300
+Releases to Air,Bisphenol A,grams,49742997.4
+Releases to Air,Boron trifluoride,grams,1000
+Releases to Air,Bromine,grams,268200000
+Releases to Air,Bromomethane,grams,72994283
+Releases to Air,Butyl acrylate,grams,40165640
+Releases to Air,Butyl benzyl phthalate,grams,207415302
+Releases to Air,Butyraldehyde,grams,40719000
+Releases to Air,C.I. Basic Red 1,grams,100
+Releases to Air,C.I. Food Red 15,grams,0
+Releases to Air,CFC-11,grams,1087000
+Releases to Air,CFC-114,grams,2047000
+Releases to Air,CFC-12,grams,11740669
+Releases to Air,Cadmium (and its compounds),grams,666046549.0070003
+Releases to Air,Calcium fluoride,grams,469437312
+Releases to Air,Carbon disulphide,grams,59848133273
+Releases to Air,Carbon monoxide,grams,19128328578114
+Releases to Air,Carbon tetrachloride,grams,57594632
+Releases to Air,Carbonyl sulphide,grams,83083395053
+Releases to Air,Catechol,grams,11419
+Releases to Air,"Chlorinated alkanes, medium-chain, CnHxCl(2n+2x), 14 = n = 17",grams,157660
+Releases to Air,Chlorine,grams,19305476906
+Releases to Air,Chlorine dioxide,grams,18482156172
+Releases to Air,Chlorobenzene,grams,8775391
+Releases to Air,Chloroethane,grams,2356791000
+Releases to Air,Chloroform,grams,2594361563
+Releases to Air,Chloromethane,grams,12130319200
+Releases to Air,Chromium (and its compounds),grams,922562987
+Releases to Air,Chrysene,grams,242191800.08399978
+Releases to Air,Cobalt (and its compounds),grams,303268319.2440009
+Releases to Air,Copper (and its compounds),grams,11662301211
+Releases to Air,"Cresol (all isomers, and their salts)",grams,911512876
+Releases to Air,"Cresol (mixed isomers, and their salts)",grams,359782000
+Releases to Air,Cumene,grams,1131430146
+Releases to Air,Cumene hydroperoxide,grams,49700
+Releases to Air,Cyanides (ionic),grams,249469638
+Releases to Air,Cyclohexane,grams,43339679414
+Releases to Air,Cyclohexanol,grams,1342000
+Releases to Air,Decabromodiphenyl oxide,grams,5044300
+Releases to Air,Di-n-octyl phthalate,grams,6379100
+Releases to Air,"Dibenz[a,h]acridine",grams,11147.693
+Releases to Air,"Dibenz[a,h]anthracene",grams,40089526.394000016
+Releases to Air,"Dibenz[a,j]acridine",grams,314627.41500000004
+Releases to Air,"Dibenzo[a,e]fluoranthene",grams,3686.5999999999995
+Releases to Air,"Dibenzo[a,e]pyrene",grams,54078.541
+Releases to Air,"Dibenzo[a,h]pyrene",grams,66466
+Releases to Air,"Dibenzo[a,i]pyrene",grams,16904484.32799999
+Releases to Air,"Dibenzo[a,l]pyrene",grams,49265.3
+Releases to Air,Dibutyl phthalate,grams,52872500
+Releases to Air,Dichloromethane,grams,23094912214
+Releases to Air,Dicyclopentadiene,grams,81718700
+Releases to Air,Diethanolamine (and its salts),grams,1158654250
+Releases to Air,Diethyl phthalate,grams,7000
+Releases to Air,Dimethyl phthalate,grams,176271800
+Releases to Air,Dimethyl sulphate,grams,70000
+Releases to Air,Dimethylamine,grams,27549000
+Releases to Air,Dimethylphenol (mixed isomers),grams,7851000
+Releases to Air,Dioxins and furans - total,grams,802.8799039999951
+Releases to Air,Diphenylamine,grams,4074000
+Releases to Air,Ethyl acrylate,grams,159016644
+Releases to Air,Ethylbenzene,grams,18899248839
+Releases to Air,Ethylene,grams,54928673498
+Releases to Air,Ethylene glycol,grams,6683405527
+Releases to Air,Ethylene oxide,grams,402223400
+Releases to Air,Ethylene thiourea,grams,4070000
+Releases to Air,Fluoranthene,grams,969009457.1400001
+Releases to Air,Fluorene,grams,189647432.8759998
+Releases to Air,Fluorine,grams,409730400
+Releases to Air,Formaldehyde,grams,45971416804
+Releases to Air,Formic acid,grams,645873490
+Releases to Air,HCFC-123 (all isomers),grams,39381000
+Releases to Air,HCFC-124 (all isomers),grams,1856000
+Releases to Air,HCFC-141b,grams,1075329400
+Releases to Air,HCFC-142b,grams,8829607000
+Releases to Air,HCFC-22,grams,1398870100
+Releases to Air,Halon 1301,grams,235000
+Releases to Air,Hexachlorobenzene,grams,261379.68723200005
+Releases to Air,Hexachloroethane,grams,31000
+Releases to Air,Hexavalent chromium (and its compounds),grams,37965640.76400009
+Releases to Air,Hydrazine (and its salts),grams,3397390
+Releases to Air,Hydrochloric acid,grams,273371770448
+Releases to Air,Hydrogen cyanide,grams,2018091220
+Releases to Air,Hydrogen fluoride,grams,83257465592
+Releases to Air,Hydrogen sulphide,grams,73602581521
+Releases to Air,Hydroquinone (and its salts),grams,63711
+Releases to Air,"Indeno[1,2,3-cd]pyrene",grams,101958732.19800009
+Releases to Air,Iron pentacarbonyl,grams,477000
+Releases to Air,Isophorone diisocyanate,grams,4143
+Releases to Air,Isoprene,grams,351103079.21300036
+Releases to Air,Isopropyl alcohol,grams,44863561925
+Releases to Air,Lead (and its compounds),grams,9428123668.631012
+Releases to Air,Lithium carbonate,grams,12678200
+Releases to Air,Maleic anhydride,grams,113425340
+Releases to Air,Manganese (and its compounds),grams,5790275801
+Releases to Air,Mercury (and its compounds),grams,97341862.96699984
+Releases to Air,Methanol,grams,461644190921
+Releases to Air,Methyl acrylate,grams,10245470
+Releases to Air,Methyl ethyl ketone,grams,74019876214
+Releases to Air,Methyl isobutyl ketone,grams,12813779971
+Releases to Air,Methyl methacrylate,grams,1248887607
+Releases to Air,Methyl tert-butyl ether,grams,1514447500
+Releases to Air,Methylenebis(phenylisocyanate),grams,1674758863
+Releases to Air,Molybdenum trioxide,grams,45070022
+Releases to Air,"N,N-Dimethylaniline (and its salts)",grams,50740000
+Releases to Air,N-Methyl-2-pyrrolidone,grams,1979125968
+Releases to Air,N-Methylolacrylamide,grams,293021
+Releases to Air,Naphthalene,grams,2539123527
+Releases to Air,Nickel (and its compounds),grams,8374114163
+Releases to Air,Nitrate ion in solution at pH >= 6.0,grams,744288129
+Releases to Air,Nitrate ion in solution at pH >= 6.5,grams,22100000
+Releases to Air,Nitric acid,grams,551457001
+Releases to Air,Nitrilotriacetic acid (and its salts),grams,19039994
+Releases to Air,Nitrogen oxides (expressed as nitrogen dioxide),grams,13873598019677
+Releases to Air,Nonylphenol,grams,29698000
+Releases to Air,Nonylphenol and its ethoxylates,grams,269015946.579
+Releases to Air,Nonylphenol polyethylene glycol ether,grams,3850000
+Releases to Air,"Nonylphenol, industrial",grams,429000
+Releases to Air,Nonylphenoxy ethanol,grams,15636000
+Releases to Air,Octylphenol and its ethoxylates,grams,2699000
+Releases to Air,"PAHs, total unspeciated",grams,90015597.71299991
+Releases to Air,PM10 - Particulate Matter <= 10 Micrometers,grams,3089229037024
+Releases to Air,PM2.5 - Particulate Matter <= 2.5 Micrometers,grams,1165772219366
+Releases to Air,Pentachloroethane,grams,65000
+Releases to Air,Peracetic acid (and its salts),grams,182425791
+Releases to Air,Perylene,grams,29170370.304000013
+Releases to Air,Phenanthrene,grams,1901309122.7209992
+Releases to Air,Phenol (and its salts),grams,10922111781
+Releases to Air,Phosgene,grams,81000
+Releases to Air,Phosphoric acid,grams,145737000
+Releases to Air,Phosphorus (total),grams,4027438326
+Releases to Air,Phosphorus (yellow or white only),grams,93988100
+Releases to Air,Phthalic anhydride,grams,29122971
+Releases to Air,Polymeric diphenylmethane diisocyanate,grams,1030742904
+Releases to Air,Potassium bromate,grams,21000
+Releases to Air,Propionaldehyde,grams,82744000
+Releases to Air,Propylene,grams,23424071604
+Releases to Air,Propylene oxide,grams,154599000
+Releases to Air,Pyrene,grams,918153389.0360005
+Releases to Air,Pyridine (and its salts),grams,6970900
+Releases to Air,Quinoline,grams,2618178.9700000007
+Releases to Air,Quinoline (and its salts),grams,4465100
+Releases to Air,Selenium (and its compounds),grams,1196048686.8389988
+Releases to Air,Silver (and its compounds),grams,32776049
+Releases to Air,Sodium fluoride,grams,13996600
+Releases to Air,Sodium nitrite,grams,112065500
+Releases to Air,Styrene,grams,49687184079
+Releases to Air,Sulphur dioxide,grams,25585539631176
+Releases to Air,Sulphur hexafluoride,grams,669101000
+Releases to Air,Sulphuric acid,grams,196031653297
+Releases to Air,Tetrachloroethylene,grams,2607576864
+Releases to Air,Tetracycline hydrochloride,grams,500
+Releases to Air,Tetraethyl lead,grams,59016.700000000004
+Releases to Air,Thallium (and its compounds),grams,4297564.171000001
+Releases to Air,Thiourea,grams,50000
+Releases to Air,Thorium dioxide,grams,235000
+Releases to Air,Titanium tetrachloride,grams,14760800
+Releases to Air,Toluene,grams,136712281540
+Releases to Air,"Toluene-2,4-diisocyanate",grams,768444.26
+Releases to Air,"Toluene-2,6-diisocyanate",grams,16791.86
+Releases to Air,Toluenediisocyanate (mixed isomers),grams,27059553.782999996
+Releases to Air,Total particulate matter,grams,7094999075553
+Releases to Air,Total reduced sulphur (expressed as hydrogen sulphide),grams,131423837522
+Releases to Air,Trichloroethylene,grams,11019618409
+Releases to Air,Triethylamine,grams,425568555
+Releases to Air,Vanadium (and its compounds),grams,88249898
+Releases to Air,Vanadium (except when in an alloy) and its compounds,grams,2397969485
+Releases to Air,Vanadium (fume or dust),grams,777071000
+Releases to Air,Vinyl acetate,grams,5020764900
+Releases to Air,Vinyl chloride,grams,286903958
+Releases to Air,Vinylidene chloride,grams,1325000
+Releases to Air,Volatile Organic Compounds (Total),grams,236371419019
+Releases to Air,Volatile Organic Compounds (VOCs),grams,4753349655236
+Releases to Air,Xylene (all isomers),grams,98373035188
+Releases to Air,Xylene (mixed isomers),grams,54045986000
+Releases to Air,Zinc (and its compounds),grams,18866342501
+Releases to Air,Zinc (fume or dust),grams,87020000
+Releases to Air,i-Butyl alcohol,grams,6270256677
+Releases to Air,m-Cresol (and its salts),grams,5931000
+Releases to Air,m-Xylene,grams,222140000
+Releases to Air,"n,n-Dimethylformamide",grams,145510060
+Releases to Air,n-Butyl alcohol,grams,23788528602
+Releases to Air,n-Hexane,grams,110182769504
+Releases to Air,n-Nonylphenol (mixed isomers),grams,2530000
+Releases to Air,o-Cresol (and its salts),grams,11700000
+Releases to Air,o-Dichlorobenzene,grams,14265300
+Releases to Air,o-Xylene,grams,153534000
+Releases to Air,"p,p'-Methylenebis(2-chloroaniline)",grams,21643700
+Releases to Air,"p,p'-Methylenedianiline",grams,13000
+Releases to Air,p-Cresol (and its salts),grams,3257000
+Releases to Air,p-Dichlorobenzene,grams,198482583
+Releases to Air,p-Phenylenediamine (and its salts),grams,749000
+Releases to Air,p-Quinone,grams,0
+Releases to Air,p-Xylene,grams,449970000
+Releases to Air,sec-Butyl alcohol,grams,106199700
+Releases to Air,tert-Butyl alcohol,grams,621739700
+Releases to Land,"1,2,4-Trimethylbenzene",grams,41147370
+Releases to Land,"1,2-Dichloroethane",grams,1636000
+Releases to Land,"1,3-Butadiene",grams,29600
+Releases to Land,"1,4-Dioxane",grams,238000
+Releases to Land,"2,4-Dinitrotoluene",grams,200000
+Releases to Land,2-Butoxyethanol,grams,6274000
+Releases to Land,"7H-Dibenzo[c,g]carbazole",grams,18
+Releases to Land,Acenaphthene,grams,28711.556
+Releases to Land,Acenaphthylene,grams,951423.1
+Releases to Land,Acetaldehyde,grams,186770
+Releases to Land,Acetone,grams,7568000
+Releases to Land,Acetonitrile,grams,0
+Releases to Land,Acetophenone,grams,377000
+Releases to Land,Acrylonitrile,grams,6611275
+Releases to Land,Aluminum (fume or dust only),grams,113222810
+Releases to Land,Aluminum oxide (fibrous forms only),grams,70937000
+Releases to Land,Ammonia (total),grams,9143822398
+Releases to Land,Ammonium nitrate (solution),grams,30069000
+Releases to Land,Ammonium sulfate (solution),grams,6243000
+Releases to Land,Anthracene,grams,109304.6
+Releases to Land,Antimony (and its compounds),grams,3075008
+Releases to Land,Arsenic (and its compounds),grams,253923454.6659999
+Releases to Land,Asbestos (friable form only),grams,764485000
+Releases to Land,Benz[a]anthracene,grams,90447.82700000002
+Releases to Land,Benzene,grams,210052605
+Releases to Land,Benzo[a]pyrene,grams,82840.93000000001
+Releases to Land,Benzo[b]fluoranthene,grams,10461.026
+Releases to Land,Benzo[e]pyrene,grams,108719.20000000001
+Releases to Land,Benzo[ghi]perylene,grams,88807.09999999998
+Releases to Land,Benzo[j]fluoranthene,grams,9586
+Releases to Land,Benzo[k]fluoranthene,grams,22907.6
+Releases to Land,Biphenyl,grams,590000
+Releases to Land,Bis(2-ethylhexyl) phthalate,grams,323000
+Releases to Land,Bisphenol A,grams,10562074.499999998
+Releases to Land,Butyl acrylate,grams,0
+Releases to Land,Cadmium (and its compounds),grams,6430417.329999995
+Releases to Land,Calcium fluoride,grams,956838500
+Releases to Land,Carbon disulphide,grams,0
+Releases to Land,Catechol,grams,662800
+Releases to Land,Chlorine,grams,146956700
+Releases to Land,Chloroform,grams,583000
+Releases to Land,Chloromethane,grams,0
+Releases to Land,Chromium (and its compounds),grams,4429286449
+Releases to Land,Chrysene,grams,23007.300000000003
+Releases to Land,Cobalt (and its compounds),grams,61700373.828
+Releases to Land,Copper (and its compounds),grams,7704967077
+Releases to Land,"Cresol (all isomers, and their salts)",grams,9700
+Releases to Land,"Cresol (mixed isomers, and their salts)",grams,4000
+Releases to Land,Cumene,grams,675800
+Releases to Land,Cumene hydroperoxide,grams,0
+Releases to Land,Cyanides (ionic),grams,523000
+Releases to Land,Cyclohexane,grams,26327804
+Releases to Land,Decabromodiphenyl oxide,grams,0
+Releases to Land,"Dibenz[a,h]anthracene",grams,13263
+Releases to Land,"Dibenz[a,j]acridine",grams,176
+Releases to Land,"Dibenzo[a,i]pyrene",grams,92.103
+Releases to Land,Dibutyl phthalate,grams,0
+Releases to Land,Dichloromethane,grams,2401000
+Releases to Land,Diethanolamine (and its salts),grams,127872636
+Releases to Land,Dioxins and furans - total,grams,21.13979
+Releases to Land,Diphenylamine,grams,1000
+Releases to Land,Ethyl acrylate,grams,86890000
+Releases to Land,Ethylbenzene,grams,37701554
+Releases to Land,Ethylene,grams,483332
+Releases to Land,Ethylene glycol,grams,176824718398
+Releases to Land,Ethylene oxide,grams,0
+Releases to Land,Fluoranthene,grams,159283.19999999995
+Releases to Land,Fluorene,grams,262335.642
+Releases to Land,Fluorine,grams,42572000
+Releases to Land,Formaldehyde,grams,59983600
+Releases to Land,Hexachlorobenzene,grams,403.7304710000004
+Releases to Land,Hexavalent chromium (and its compounds),grams,2113190
+Releases to Land,Hydrazine (and its salts),grams,296000
+Releases to Land,Hydrochloric acid,grams,261925514
+Releases to Land,Hydrogen fluoride,grams,540000
+Releases to Land,Hydrogen sulphide,grams,31509432
+Releases to Land,"Indeno[1,2,3-cd]pyrene",grams,31034.499999999996
+Releases to Land,Isoprene,grams,0
+Releases to Land,Isopropyl alcohol,grams,30052800
+Releases to Land,Lead (and its compounds),grams,3948981874.2360005
+Releases to Land,Maleic anhydride,grams,0
+Releases to Land,Manganese (and its compounds),grams,7097797918
+Releases to Land,Mercury (and its compounds),grams,949629.211
+Releases to Land,Methanol,grams,3603492498
+Releases to Land,Methyl ethyl ketone,grams,15357560
+Releases to Land,Methyl isobutyl ketone,grams,3797700
+Releases to Land,Methyl methacrylate,grams,1490000
+Releases to Land,Methyl tert-butyl ether,grams,88000
+Releases to Land,Methylenebis(phenylisocyanate),grams,15490900
+Releases to Land,Molybdenum trioxide,grams,536000
+Releases to Land,N-Methyl-2-pyrrolidone,grams,1110000
+Releases to Land,Naphthalene,grams,6719000
+Releases to Land,Naphthenic acid fraction compounds (and their salts),grams,243542
+Releases to Land,Nickel (and its compounds),grams,1075967438
+Releases to Land,Nitrate ion in solution at pH >= 6.0,grams,3525389102
+Releases to Land,Nitrate ion in solution at pH >= 6.5,grams,2060000
+Releases to Land,Nitric acid,grams,309745772
+Releases to Land,Nitrilotriacetic acid (and its salts),grams,1660000
+Releases to Land,Nonylphenol and its ethoxylates,grams,20720889.500000004
+Releases to Land,Nonylphenol polyethylene glycol ether,grams,20000
+Releases to Land,Octylphenol and its ethoxylates,grams,40315100
+Releases to Land,"PAHs, total unspeciated",grams,774343
+Releases to Land,Perylene,grams,35600.90099999999
+Releases to Land,Phenanthrene,grams,885026.3809999998
+Releases to Land,Phenol (and its salts),grams,6662000
+Releases to Land,Phosgene,grams,42860000
+Releases to Land,Phosphoric acid,grams,143791000
+Releases to Land,Phosphorus (total),grams,5532091944
+Releases to Land,Phosphorus (yellow or white only),grams,32679500
+Releases to Land,Phthalic anhydride,grams,81000
+Releases to Land,Polymeric diphenylmethane diisocyanate,grams,5939000
+Releases to Land,Propylene,grams,447551
+Releases to Land,Propylene oxide,grams,0
+Releases to Land,Pyrene,grams,146704.28499999997
+Releases to Land,Quinoline,grams,4.999999999999999
+Releases to Land,Selenium (and its compounds),grams,2307441.5569999996
+Releases to Land,Silver (and its compounds),grams,74508
+Releases to Land,Sodium fluoride,grams,5520000
+Releases to Land,Styrene,grams,34701200
+Releases to Land,Sulphuric acid,grams,3251604270
+Releases to Land,Tetrachloroethylene,grams,519000
+Releases to Land,Thallium (and its compounds),grams,200765.11299999998
+Releases to Land,Toluene,grams,242894856
+Releases to Land,Toluenediisocyanate (mixed isomers),grams,0
+Releases to Land,Total reduced sulphur (expressed as hydrogen sulphide),grams,843081200
+Releases to Land,Trichloroethylene,grams,8000
+Releases to Land,Vanadium (and its compounds),grams,56687000
+Releases to Land,Vanadium (except when in an alloy) and its compounds,grams,213329300
+Releases to Land,Vanadium (fume or dust),grams,1300000
+Releases to Land,Vinyl acetate,grams,14293000
+Releases to Land,Vinyl chloride,grams,4500000
+Releases to Land,Xylene (all isomers),grams,155541705
+Releases to Land,Xylene (mixed isomers),grams,67598000
+Releases to Land,Zinc (and its compounds),grams,18609577181
+Releases to Land,i-Butyl alcohol,grams,48300
+Releases to Land,n-Butyl alcohol,grams,84445200
+Releases to Land,n-Hexane,grams,1767409407
+Releases to Land,o-Xylene,grams,228000
+Releases to Land,"p,p'-Methylenebis(2-chloroaniline)",grams,0
+Releases to Land,p-Dichlorobenzene,grams,900000
+Releases to Land,sec-Butyl alcohol,grams,0
+Releases to Land,tert-Butyl alcohol,grams,17000
+Releases to Water Bodies,"1,1,2-Trichloroethane",grams,31000
+Releases to Water Bodies,"1,2,4-Trimethylbenzene",grams,9350731
+Releases to Water Bodies,"1,2-Dichloroethane",grams,1955000
+Releases to Water Bodies,"1,3-Butadiene",grams,264000
+Releases to Water Bodies,"1,4-Dioxane",grams,115307600
+Releases to Water Bodies,1-Nitropyrene,grams,0
+Releases to Water Bodies,"2,4-Dichlorophenol (and its salts)",grams,661000
+Releases to Water Bodies,"2,4-Dinitrotoluene",grams,10552000
+Releases to Water Bodies,2-Butoxyethanol,grams,25468700
+Releases to Water Bodies,2-Methoxyethanol,grams,1120000
+Releases to Water Bodies,3-Methylcholanthrene,grams,1900
+Releases to Water Bodies,5-Methylchrysene,grams,3944.1000000000004
+Releases to Water Bodies,"7,12-Dimethylbenz[a]anthracene",grams,1851
+Releases to Water Bodies,"7H-Dibenzo[c,g]carbazole",grams,13386.8
+Releases to Water Bodies,Acenaphthene,grams,563754.7649999998
+Releases to Water Bodies,Acenaphthylene,grams,158945.008
+Releases to Water Bodies,Acetaldehyde,grams,469063743
+Releases to Water Bodies,Acetone,grams,353788000
+Releases to Water Bodies,Acetonitrile,grams,525000
+Releases to Water Bodies,Acetophenone,grams,2000
+Releases to Water Bodies,Acrolein,grams,18833000
+Releases to Water Bodies,Acrylamide,grams,2395000
+Releases to Water Bodies,Acrylonitrile,grams,312000
+Releases to Water Bodies,Aluminum (fume or dust only),grams,697124233
+Releases to Water Bodies,Aluminum oxide (fibrous forms only),grams,190500
+Releases to Water Bodies,Ammonia (total),grams,1101291360791
+Releases to Water Bodies,Ammonium nitrate (solution),grams,1206350000
+Releases to Water Bodies,Ammonium sulfate (solution),grams,2450300000
+Releases to Water Bodies,Anthracene,grams,1366313.5619999997
+Releases to Water Bodies,Antimony (and its compounds),grams,185475244
+Releases to Water Bodies,Arsenic (and its compounds),grams,759392412.8190014
+Releases to Water Bodies,Asbestos (friable form only),grams,0
+Releases to Water Bodies,Benz[a]anthracene,grams,185536.63500000007
+Releases to Water Bodies,Benzene,grams,2165113086
+Releases to Water Bodies,Benzo[a]pyrene,grams,234249.89900000003
+Releases to Water Bodies,Benzo[b]fluoranthene,grams,179742.106
+Releases to Water Bodies,Benzo[e]pyrene,grams,203143.12799999997
+Releases to Water Bodies,Benzo[ghi]perylene,grams,301005.234
+Releases to Water Bodies,Benzo[j]fluoranthene,grams,16657.800999999996
+Releases to Water Bodies,Benzo[k]fluoranthene,grams,74594.96
+Releases to Water Bodies,Biphenyl,grams,245000
+Releases to Water Bodies,Bis(2-ethylhexyl) adipate,grams,11800000
+Releases to Water Bodies,Bis(2-ethylhexyl) phthalate,grams,2000
+Releases to Water Bodies,Bisphenol A,grams,2045645.2000000002
+Releases to Water Bodies,CFC-114,grams,408000
+Releases to Water Bodies,CFC-12,grams,1056000
+Releases to Water Bodies,Cadmium (and its compounds),grams,94460218.97800004
+Releases to Water Bodies,Calcium fluoride,grams,1153732721
+Releases to Water Bodies,Carbon disulphide,grams,25911000
+Releases to Water Bodies,Carbon tetrachloride,grams,11363000
+Releases to Water Bodies,Catechol,grams,42859
+Releases to Water Bodies,Chlorine,grams,5103946890
+Releases to Water Bodies,Chlorine dioxide,grams,43471600
+Releases to Water Bodies,Chloroacetic acid (and its salts),grams,1714000
+Releases to Water Bodies,Chloroethane,grams,22370000
+Releases to Water Bodies,Chloroform,grams,46693927
+Releases to Water Bodies,Chloromethane,grams,4625400
+Releases to Water Bodies,Chromium (and its compounds),grams,426338743
+Releases to Water Bodies,Chrysene,grams,147897.217
+Releases to Water Bodies,Cobalt (and its compounds),grams,595025502.5220009
+Releases to Water Bodies,Copper (and its compounds),grams,61996159275
+Releases to Water Bodies,"Cresol (all isomers, and their salts)",grams,80848862
+Releases to Water Bodies,"Cresol (mixed isomers, and their salts)",grams,4261000
+Releases to Water Bodies,Cumene,grams,478000
+Releases to Water Bodies,Cyanides (ionic),grams,177542757
+Releases to Water Bodies,Cyclohexane,grams,19353100
+Releases to Water Bodies,Decabromodiphenyl oxide,grams,0
+Releases to Water Bodies,"Dibenz[a,h]acridine",grams,2445.8
+Releases to Water Bodies,"Dibenz[a,h]anthracene",grams,114279.44
+Releases to Water Bodies,"Dibenz[a,j]acridine",grams,16810
+Releases to Water Bodies,"Dibenzo[a,e]fluoranthene",grams,0
+Releases to Water Bodies,"Dibenzo[a,e]pyrene",grams,9644.11
+Releases to Water Bodies,"Dibenzo[a,h]pyrene",grams,1986
+Releases to Water Bodies,"Dibenzo[a,i]pyrene",grams,79468.61000000002
+Releases to Water Bodies,"Dibenzo[a,l]pyrene",grams,330
+Releases to Water Bodies,Dibutyl phthalate,grams,20783000
+Releases to Water Bodies,Dichloromethane,grams,583000
+Releases to Water Bodies,Diethanolamine (and its salts),grams,134596000
+Releases to Water Bodies,Dimethylamine,grams,304000
+Releases to Water Bodies,Dioxins and furans - total,grams,29.77014300000001
+Releases to Water Bodies,Ethylbenzene,grams,57675608
+Releases to Water Bodies,Ethylene,grams,323000
+Releases to Water Bodies,Ethylene glycol,grams,13403442358
+Releases to Water Bodies,Ethylene oxide,grams,23000
+Releases to Water Bodies,Fluoranthene,grams,897065.1749999997
+Releases to Water Bodies,Fluorene,grams,2691022.9430000014
+Releases to Water Bodies,Fluorine,grams,1539451477
+Releases to Water Bodies,Formaldehyde,grams,1636098207
+Releases to Water Bodies,Formic acid,grams,3000
+Releases to Water Bodies,HCFC-122 (all isomers),grams,1052000
+Releases to Water Bodies,HCFC-123 (all isomers),grams,100526000
+Releases to Water Bodies,HCFC-124 (all isomers),grams,8231000
+Releases to Water Bodies,HCFC-22,grams,911000
+Releases to Water Bodies,Hexachlorobenzene,grams,205.37325700000002
+Releases to Water Bodies,Hexavalent chromium (and its compounds),grams,27431424.179
+Releases to Water Bodies,Hydrazine (and its salts),grams,51625930
+Releases to Water Bodies,Hydrochloric acid,grams,553702201
+Releases to Water Bodies,Hydrogen cyanide,grams,252200
+Releases to Water Bodies,Hydrogen fluoride,grams,28901000
+Releases to Water Bodies,Hydrogen sulphide,grams,1765954893
+Releases to Water Bodies,"Indeno[1,2,3-cd]pyrene",grams,215959.51000000004
+Releases to Water Bodies,Iron pentacarbonyl,grams,97000
+Releases to Water Bodies,Isoprene,grams,0
+Releases to Water Bodies,Isopropyl alcohol,grams,224381080
+Releases to Water Bodies,Lead (and its compounds),grams,1079873550.3060014
+Releases to Water Bodies,Maleic anhydride,grams,0
+Releases to Water Bodies,Manganese (and its compounds),grams,50760326000
+Releases to Water Bodies,Mercury (and its compounds),grams,8738015.287999984
+Releases to Water Bodies,Methanol,grams,73333339127
+Releases to Water Bodies,Methyl ethyl ketone,grams,168505456
+Releases to Water Bodies,Methyl isobutyl ketone,grams,121547461
+Releases to Water Bodies,Methyl methacrylate,grams,0
+Releases to Water Bodies,Methyl tert-butyl ether,grams,679000
+Releases to Water Bodies,Methylenebis(phenylisocyanate),grams,0
+Releases to Water Bodies,Molybdenum trioxide,grams,8051915
+Releases to Water Bodies,Naphthalene,grams,82773758
+Releases to Water Bodies,Naphthenic acid fraction compounds (and their salts),grams,75052865
+Releases to Water Bodies,Nickel (and its compounds),grams,1648597737
+Releases to Water Bodies,Nitrate ion in solution at pH >= 6.0,grams,1407536404126
+Releases to Water Bodies,Nitrate ion in solution at pH >= 6.5,grams,2553903000
+Releases to Water Bodies,Nitric acid,grams,319901200
+Releases to Water Bodies,Nitrilotriacetic acid (and its salts),grams,0
+Releases to Water Bodies,Nitroglycerin,grams,49130000
+Releases to Water Bodies,Nonylphenol,grams,29495000
+Releases to Water Bodies,Nonylphenol and its ethoxylates,grams,874665335.3000001
+Releases to Water Bodies,Nonylphenol polyethylene glycol ether,grams,91180000
+Releases to Water Bodies,Nonylphenoxy ethanol,grams,5135000
+Releases to Water Bodies,"PAHs, total unspeciated",grams,2280490.0599999996
+Releases to Water Bodies,Perylene,grams,307483.168
+Releases to Water Bodies,Phenanthrene,grams,6900047.187
+Releases to Water Bodies,Phenol (and its salts),grams,887892380
+Releases to Water Bodies,Phosphoric acid,grams,1929054000
+Releases to Water Bodies,Phosphorus (total),grams,151304949691
+Releases to Water Bodies,Phosphorus (yellow or white only),grams,69580700
+Releases to Water Bodies,Polymeric diphenylmethane diisocyanate,grams,0
+Releases to Water Bodies,Propylene,grams,2706100
+Releases to Water Bodies,Propylene oxide,grams,0
+Releases to Water Bodies,Pyrene,grams,695732.3869999998
+Releases to Water Bodies,Quinoline,grams,101549.586
+Releases to Water Bodies,Selenium (and its compounds),grams,2605679779.600998
+Releases to Water Bodies,Silver (and its compounds),grams,10888764
+Releases to Water Bodies,Sodium fluoride,grams,317223000
+Releases to Water Bodies,Sodium nitrite,grams,214790100
+Releases to Water Bodies,Styrene,grams,11015000
+Releases to Water Bodies,Sulphuric acid,grams,96377814323
+Releases to Water Bodies,Tetrachloroethylene,grams,663000
+Releases to Water Bodies,Thallium (and its compounds),grams,14425040.025999993
+Releases to Water Bodies,Toluene,grams,1325032924
+Releases to Water Bodies,Toluenediisocyanate (mixed isomers),grams,0
+Releases to Water Bodies,Total reduced sulphur (expressed as hydrogen sulphide),grams,14365039900
+Releases to Water Bodies,Trichloroethylene,grams,163000
+Releases to Water Bodies,Triethylamine,grams,21900000
+Releases to Water Bodies,Vanadium (and its compounds),grams,7897692
+Releases to Water Bodies,Vanadium (except when in an alloy) and its compounds,grams,4276420500
+Releases to Water Bodies,Vanadium (fume or dust),grams,3540000
+Releases to Water Bodies,Vinyl chloride,grams,1877300
+Releases to Water Bodies,Xylene (all isomers),grams,326342001
+Releases to Water Bodies,Xylene (mixed isomers),grams,16496000
+Releases to Water Bodies,Zinc (and its compounds),grams,10007008033
+Releases to Water Bodies,Zinc (fume or dust),grams,57934000
+Releases to Water Bodies,i-Butyl alcohol,grams,6440000
+Releases to Water Bodies,"n,n-Dimethylformamide",grams,239000
+Releases to Water Bodies,n-Butyl alcohol,grams,42725000
+Releases to Water Bodies,n-Hexane,grams,100913115
+Releases to Water Bodies,o-Xylene,grams,64000
+Releases to Water Bodies,"p,p'-Methylenebis(2-chloroaniline)",grams,0
+Releases to Water Bodies,p-Nonylphenol polyethylene glycol ether,grams,1670000
+Releases to Water Bodies,p-Phenylenediamine (and its salts),grams,1886000
+Releases to Water Bodies,sec-Butyl alcohol,grams,0
+Releases to Water Bodies,tert-Butyl alcohol,grams,9316000
+Sum of release to all media (<1tonne),"1,1,1,2-Tetrachloroethane",grams,1000
+Sum of release to all media (<1tonne),"1,1,2,2-Tetrachloroethane",grams,49000
+Sum of release to all media (<1tonne),"1,1,2-Trichloroethane",grams,1771800
+Sum of release to all media (<1tonne),"1,1-Methylenebis(4-isocyanatocyclohexane)",grams,10700
+Sum of release to all media (<1tonne),"1,2,4-Trichlorobenzene",grams,3272700
+Sum of release to all media (<1tonne),"1,2,4-Trimethylbenzene",grams,197654163
+Sum of release to all media (<1tonne),"1,2-Dichloroethane",grams,2360200
+Sum of release to all media (<1tonne),"1,2-Dichloropropane",grams,55000
+Sum of release to all media (<1tonne),"1,3-Butadiene",grams,8468181
+Sum of release to all media (<1tonne),"1,4-Dioxane",grams,9147100
+Sum of release to all media (<1tonne),"2,4-Dinitrotoluene",grams,900000
+Sum of release to all media (<1tonne),"2,6-Di-t-butyl-4-methylphenol",grams,617800
+Sum of release to all media (<1tonne),2-(2-Methoxyethoxy)ethanol,grams,162750
+Sum of release to all media (<1tonne),2-Butoxyethanol,grams,94731602
+Sum of release to all media (<1tonne),2-Ethoxyethanol,grams,874600
+Sum of release to all media (<1tonne),2-Ethoxyethyl acetate,grams,1473000
+Sum of release to all media (<1tonne),2-Mercaptobenzothiazole,grams,2997911
+Sum of release to all media (<1tonne),2-Methoxyethanol,grams,152900
+Sum of release to all media (<1tonne),2-Nitropropane,grams,375000
+Sum of release to all media (<1tonne),"3,3'-Dichlorobenzidine dihydrochloride",grams,0
+Sum of release to all media (<1tonne),4-tert-Octylphenol,grams,20000
+Sum of release to all media (<1tonne),Acetaldehyde,grams,9037311
+Sum of release to all media (<1tonne),Acetone,grams,35509000
+Sum of release to all media (<1tonne),Acetonitrile,grams,7526200
+Sum of release to all media (<1tonne),Acetophenone,grams,4514700
+Sum of release to all media (<1tonne),Acrolein,grams,1929253
+Sum of release to all media (<1tonne),Acrylamide,grams,3429320
+Sum of release to all media (<1tonne),Acrylic acid (and its salts),grams,3565363
+Sum of release to all media (<1tonne),Acrylonitrile,grams,10408200
+Sum of release to all media (<1tonne),"Alkanes, C10-13, chloro",grams,0
+Sum of release to all media (<1tonne),Allyl alcohol,grams,295400
+Sum of release to all media (<1tonne),Aluminum (fume or dust only),grams,54759321
+Sum of release to all media (<1tonne),Aluminum oxide (fibrous forms only),grams,23627768
+Sum of release to all media (<1tonne),Ammonia (total),grams,845786462
+Sum of release to all media (<1tonne),Ammonium nitrate (solution),grams,150000
+Sum of release to all media (<1tonne),Ammonium sulfate (solution),grams,720000
+Sum of release to all media (<1tonne),Aniline (and its salts),grams,84500
+Sum of release to all media (<1tonne),Anthracene,grams,11461924
+Sum of release to all media (<1tonne),Antimony (and its compounds),grams,23534327
+Sum of release to all media (<1tonne),Arsenic (and its compounds),grams,3095000
+Sum of release to all media (<1tonne),Asbestos,grams,587000
+Sum of release to all media (<1tonne),Asbestos (friable form only),grams,6286000
+Sum of release to all media (<1tonne),Benzene,grams,285593217
+Sum of release to all media (<1tonne),Benzoyl chloride,grams,0
+Sum of release to all media (<1tonne),Benzoyl peroxide,grams,1923726
+Sum of release to all media (<1tonne),Benzyl chloride,grams,666100
+Sum of release to all media (<1tonne),Biphenyl,grams,5973620
+Sum of release to all media (<1tonne),Bis(2-ethylhexyl) adipate,grams,9277105
+Sum of release to all media (<1tonne),Bis(2-ethylhexyl) phthalate,grams,17818093
+Sum of release to all media (<1tonne),Bisphenol A,grams,812700
+Sum of release to all media (<1tonne),Bromine,grams,1994900
+Sum of release to all media (<1tonne),Bromomethane,grams,109700
+Sum of release to all media (<1tonne),Butyl acrylate,grams,8417928
+Sum of release to all media (<1tonne),Butyl benzyl phthalate,grams,2933190
+Sum of release to all media (<1tonne),Butyraldehyde,grams,1031990
+Sum of release to all media (<1tonne),C.I. Acid Green 3,grams,125000
+Sum of release to all media (<1tonne),C.I. Basic Green 4,grams,10917
+Sum of release to all media (<1tonne),C.I. Basic Red 1,grams,2400
+Sum of release to all media (<1tonne),C.I. Food Red 15,grams,8200
+Sum of release to all media (<1tonne),CFC-11,grams,654000
+Sum of release to all media (<1tonne),CFC-114,grams,272000
+Sum of release to all media (<1tonne),CFC-12,grams,840600
+Sum of release to all media (<1tonne),Cadmium (and its compounds),grams,4417000
+Sum of release to all media (<1tonne),Calcium fluoride,grams,16327264
+Sum of release to all media (<1tonne),Carbon disulphide,grams,24913100
+Sum of release to all media (<1tonne),Carbon tetrachloride,grams,1768100
+Sum of release to all media (<1tonne),Carbonyl sulphide,grams,9088800
+Sum of release to all media (<1tonne),Catechol,grams,310000
+Sum of release to all media (<1tonne),Chlorine,grams,103485587
+Sum of release to all media (<1tonne),Chlorine dioxide,grams,14899670
+Sum of release to all media (<1tonne),Chloroacetic acid (and its salts),grams,893000
+Sum of release to all media (<1tonne),Chlorobenzene,grams,3502600
+Sum of release to all media (<1tonne),Chloroethane,grams,1189700
+Sum of release to all media (<1tonne),Chloroform,grams,10882163
+Sum of release to all media (<1tonne),Chloromethane,grams,1527700
+Sum of release to all media (<1tonne),Chromium (and its compounds),grams,156029406
+Sum of release to all media (<1tonne),Cobalt (and its compounds),grams,8170860
+Sum of release to all media (<1tonne),Copper (and its compounds),grams,176221219
+Sum of release to all media (<1tonne),"Cresol (all isomers, and their salts)",grams,13424206
+Sum of release to all media (<1tonne),"Cresol (mixed isomers, and their salts)",grams,234000
+Sum of release to all media (<1tonne),Cumene,grams,21999066
+Sum of release to all media (<1tonne),Cumene hydroperoxide,grams,212400
+Sum of release to all media (<1tonne),Cyanides (ionic),grams,26275132
+Sum of release to all media (<1tonne),Cyclohexane,grams,227041757
+Sum of release to all media (<1tonne),Cyclohexanol,grams,2144300
+Sum of release to all media (<1tonne),Decabromodiphenyl oxide,grams,251400
+Sum of release to all media (<1tonne),Di-n-octyl phthalate,grams,757700
+Sum of release to all media (<1tonne),Dibutyl phthalate,grams,12535215
+Sum of release to all media (<1tonne),Dichloromethane,grams,68299339
+Sum of release to all media (<1tonne),Dicyclopentadiene,grams,12954000
+Sum of release to all media (<1tonne),Diethanolamine (and its salts),grams,21746020
+Sum of release to all media (<1tonne),Diethyl phthalate,grams,85000
+Sum of release to all media (<1tonne),Dimethyl phthalate,grams,5859200
+Sum of release to all media (<1tonne),Dimethylamine,grams,458000
+Sum of release to all media (<1tonne),Dimethylphenol (mixed isomers),grams,2590000
+Sum of release to all media (<1tonne),Diphenylamine,grams,703800
+Sum of release to all media (<1tonne),Epichlorohydrin,grams,1596360
+Sum of release to all media (<1tonne),Ethyl acrylate,grams,3855920
+Sum of release to all media (<1tonne),Ethyl chloroformate,grams,100000
+Sum of release to all media (<1tonne),Ethylbenzene,grams,243705773
+Sum of release to all media (<1tonne),Ethylene,grams,26569501
+Sum of release to all media (<1tonne),Ethylene glycol,grams,145855729
+Sum of release to all media (<1tonne),Ethylene oxide,grams,15403980
+Sum of release to all media (<1tonne),Fluorine,grams,404000
+Sum of release to all media (<1tonne),Formaldehyde,grams,100525256
+Sum of release to all media (<1tonne),Formic acid,grams,9245469
+Sum of release to all media (<1tonne),HCFC-123 (all isomers),grams,425000
+Sum of release to all media (<1tonne),HCFC-124 (all isomers),grams,1835500
+Sum of release to all media (<1tonne),HCFC-141b,grams,1302000
+Sum of release to all media (<1tonne),HCFC-142b,grams,3944900
+Sum of release to all media (<1tonne),HCFC-22,grams,7037800
+Sum of release to all media (<1tonne),Halon 1211,grams,9000
+Sum of release to all media (<1tonne),Halon 1301,grams,165000
+Sum of release to all media (<1tonne),Hydrazine (and its salts),grams,3411000
+Sum of release to all media (<1tonne),Hydrochloric acid,grams,153150502
+Sum of release to all media (<1tonne),Hydrogen cyanide,grams,4822060
+Sum of release to all media (<1tonne),Hydrogen fluoride,grams,15550809
+Sum of release to all media (<1tonne),Hydrogen sulphide,grams,85686451
+Sum of release to all media (<1tonne),Hydroquinone (and its salts),grams,773000
+Sum of release to all media (<1tonne),Isobutyraldehyde,grams,6000
+Sum of release to all media (<1tonne),Isophorone diisocyanate,grams,1084300
+Sum of release to all media (<1tonne),Isoprene,grams,784800
+Sum of release to all media (<1tonne),Isopropyl alcohol,grams,295855384
+Sum of release to all media (<1tonne),Lead (and its compounds),grams,42365000
+Sum of release to all media (<1tonne),Lithium carbonate,grams,1441200
+Sum of release to all media (<1tonne),Maleic anhydride,grams,18903697
+Sum of release to all media (<1tonne),Manganese (and its compounds),grams,270121386
+Sum of release to all media (<1tonne),Mercury (and its compounds),grams,29000
+Sum of release to all media (<1tonne),Methanol,grams,456361388
+Sum of release to all media (<1tonne),Methyl acrylate,grams,2173179
+Sum of release to all media (<1tonne),Methyl ethyl ketone,grams,234713611
+Sum of release to all media (<1tonne),Methyl isobutyl ketone,grams,91922817
+Sum of release to all media (<1tonne),Methyl methacrylate,grams,23815417
+Sum of release to all media (<1tonne),Methyl tert-butyl ether,grams,12139000
+Sum of release to all media (<1tonne),Methylenebis(phenylisocyanate),grams,43748394
+Sum of release to all media (<1tonne),Molybdenum trioxide,grams,17736576
+Sum of release to all media (<1tonne),N-Methyl-2-pyrrolidone,grams,7201302
+Sum of release to all media (<1tonne),N-Methylolacrylamide,grams,54365
+Sum of release to all media (<1tonne),Naphthalene,grams,89737855
+Sum of release to all media (<1tonne),Nickel (and its compounds),grams,104144411
+Sum of release to all media (<1tonne),Nitrate ion in solution at pH >= 6.0,grams,23020705
+Sum of release to all media (<1tonne),Nitrate ion in solution at pH >= 6.5,grams,730000
+Sum of release to all media (<1tonne),Nitric acid,grams,52275358
+Sum of release to all media (<1tonne),Nitrilotriacetic acid (and its salts),grams,6706000
+Sum of release to all media (<1tonne),Nitroglycerin,grams,5339000
+Sum of release to all media (<1tonne),Nonylphenol,grams,285000
+Sum of release to all media (<1tonne),Nonylphenol and its ethoxylates,grams,6366493
+Sum of release to all media (<1tonne),Nonylphenol nona(oxyethylene) ethanol,grams,200000
+Sum of release to all media (<1tonne),Nonylphenol polyethylene glycol ether,grams,4568000
+Sum of release to all media (<1tonne),"Nonylphenol, industrial",grams,715000
+Sum of release to all media (<1tonne),Octylphenol and its ethoxylates,grams,2808480
+Sum of release to all media (<1tonne),Peracetic acid (and its salts),grams,556300
+Sum of release to all media (<1tonne),Phenol (and its salts),grams,46336655
+Sum of release to all media (<1tonne),Phosgene,grams,1000
+Sum of release to all media (<1tonne),Phosphoric acid,grams,14806000
+Sum of release to all media (<1tonne),Phosphorus (total),grams,205545169
+Sum of release to all media (<1tonne),Phosphorus (yellow or white only),grams,2233000
+Sum of release to all media (<1tonne),Phthalic anhydride,grams,9646784
+Sum of release to all media (<1tonne),Polymeric diphenylmethane diisocyanate,grams,21375336
+Sum of release to all media (<1tonne),Propionaldehyde,grams,43000
+Sum of release to all media (<1tonne),Propylene,grams,49870139
+Sum of release to all media (<1tonne),Propylene oxide,grams,468100
+Sum of release to all media (<1tonne),Pyridine (and its salts),grams,523000
+Sum of release to all media (<1tonne),Quinoline (and its salts),grams,309100
+Sum of release to all media (<1tonne),Selenium (and its compounds),grams,5458100
+Sum of release to all media (<1tonne),Silver (and its compounds),grams,7870717
+Sum of release to all media (<1tonne),Sodium fluoride,grams,311693
+Sum of release to all media (<1tonne),Sodium nitrite,grams,8191948
+Sum of release to all media (<1tonne),Styrene,grams,123603288
+Sum of release to all media (<1tonne),Styrene oxide,grams,1579000
+Sum of release to all media (<1tonne),Sulphur hexafluoride,grams,525000
+Sum of release to all media (<1tonne),Sulphuric acid,grams,208196092
+Sum of release to all media (<1tonne),Tetrachloroethylene,grams,25870902
+Sum of release to all media (<1tonne),Tetracycline hydrochloride,grams,1600
+Sum of release to all media (<1tonne),Titanium tetrachloride,grams,449100
+Sum of release to all media (<1tonne),Toluene,grams,671678138
+Sum of release to all media (<1tonne),"Toluene-2,4-diisocyanate",grams,659300
+Sum of release to all media (<1tonne),"Toluene-2,6-diisocyanate",grams,7000
+Sum of release to all media (<1tonne),Toluenediisocyanate (mixed isomers),grams,5422300
+Sum of release to all media (<1tonne),Total reduced sulphur (expressed as hydrogen sulphide),grams,43283026
+Sum of release to all media (<1tonne),Trichloroethylene,grams,27954010
+Sum of release to all media (<1tonne),Triethylamine,grams,4520901
+Sum of release to all media (<1tonne),Vanadium (and its compounds),grams,8317533
+Sum of release to all media (<1tonne),Vanadium (except when in an alloy) and its compounds,grams,13500300
+Sum of release to all media (<1tonne),Vanadium (fume or dust),grams,2161000
+Sum of release to all media (<1tonne),Vinyl acetate,grams,23290400
+Sum of release to all media (<1tonne),Vinyl chloride,grams,2268500
+Sum of release to all media (<1tonne),Vinylidene chloride,grams,51000
+Sum of release to all media (<1tonne),Volatile Organic Compounds (VOCs),grams,1000000
+Sum of release to all media (<1tonne),Xylene (all isomers),grams,518617178
+Sum of release to all media (<1tonne),Xylene (mixed isomers),grams,88199000
+Sum of release to all media (<1tonne),Zinc (and its compounds),grams,241397675
+Sum of release to all media (<1tonne),Zinc (fume or dust),grams,1990000
+Sum of release to all media (<1tonne),i-Butyl alcohol,grams,69384324
+Sum of release to all media (<1tonne),m-Xylene,grams,1230000
+Sum of release to all media (<1tonne),"n,n-Dimethylformamide",grams,1995800
+Sum of release to all media (<1tonne),n-Butyl alcohol,grams,122679680
+Sum of release to all media (<1tonne),n-Hexane,grams,424967179
+Sum of release to all media (<1tonne),n-Nonylphenol (mixed isomers),grams,689000
+Sum of release to all media (<1tonne),o-Cresol (and its salts),grams,25000
+Sum of release to all media (<1tonne),o-Dichlorobenzene,grams,1622000
+Sum of release to all media (<1tonne),o-Phenylphenol (and salts),grams,3000
+Sum of release to all media (<1tonne),o-Xylene,grams,1092000
+Sum of release to all media (<1tonne),"p,p'-Methylenebis(2-chloroaniline)",grams,74580
+Sum of release to all media (<1tonne),"p,p'-Methylenedianiline",grams,100000
+Sum of release to all media (<1tonne),p-Cresol (and its salts),grams,100000
+Sum of release to all media (<1tonne),p-Dichlorobenzene,grams,2847000
+Sum of release to all media (<1tonne),p-Nitrophenol (and its salts),grams,0
+Sum of release to all media (<1tonne),p-Phenylenediamine (and its salts),grams,2110800
+Sum of release to all media (<1tonne),p-Xylene,grams,1400000
+Sum of release to all media (<1tonne),sec-Butyl alcohol,grams,517870
+Sum of release to all media (<1tonne),tert-Butyl alcohol,grams,1863600
