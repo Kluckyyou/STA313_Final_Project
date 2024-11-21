@@ -41,6 +41,18 @@ map_cleaned_data <- map_cleaned_data %>%
     unit = "grams"
   )
 
+# update emit_way values
+map_cleaned_data <- map_cleaned_data %>%
+  mutate(
+    emit_way = case_when(
+      emit_way == "Releases to Water Bodies" ~ "water",
+      emit_way == "Releases to Land" ~ "land",
+      emit_way == "Releases to Air" ~ "air",
+      emit_way == "Sum of release to all media (<1tonne)" ~ "all",
+      TRUE ~ emit_way
+    )
+  )
+
 # data aggregation
 map_cleaned_data <- map_cleaned_data %>%
   group_by(
