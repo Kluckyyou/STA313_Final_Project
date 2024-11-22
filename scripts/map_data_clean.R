@@ -5,6 +5,7 @@ library(dplyr)
 library(readr)
 library(here)
 
+
 # load Data
 raw_data <- read_csv(here("data", "raw_data", "NPRI-INRP_ReleasesRejets_1993-present.csv"), 
                      locale = locale(encoding = "ISO-8859-1"),
@@ -42,12 +43,19 @@ map_cleaned_data <- map_cleaned_data %>%
   )
 
 # data aggregation
-map_cleaned_data <- map_cleaned_data %>%
+pie_chart_data <- map_cleaned_data %>%
   group_by(
-    year,
-    province,
-    NPRI_id,
-    facility,
+    emit_way,
+    unit
+  ) %>%
+  summarize(
+    quantity = sum(quantity, na.rm = TRUE),  # Sum the quantities, ignoring NAs
+    .groups = "drop"  # Ungroup after summarizing
+  )
+
+
+bar_chart_data <- map_cleaned_data %>%
+  group_by(
     substance,
     emit_way,
     unit
@@ -57,5 +65,36 @@ map_cleaned_data <- map_cleaned_data %>%
     .groups = "drop"  # Ungroup after summarizing
   )
 
+bar_chart_data <- bar_chart_data %>%
+  group_by(
+    emit_way,
+    unit) %>%
+  top_n(5, wt = quantity) %>%
+  ungroup() %>%
+  arrange(emit_way, desc(quantity))
+
+line_chart_data <- map_cleaned_data %>%
+  group_by(
+    year,
+    substance,
+    emit_way,
+    unit
+  ) %>%
+  summarize(
+    quantity = sum(quantity, na.rm = TRUE),  # Sum the quantities, ignoring NAs
+    .groups = "drop"  # Ungroup after summarizing
+  )
+
+line_chart_data <- line_chart_data %>%
+  group_by(
+    substance,
+    emit_way,
+    unit) %>%
+  top_n(5, wt = sum(quantity)) %>%
+  ungroup() %>%
+  arrange(emit_way, substance, year)
+
 #### Save Data ####
-write_csv(map_cleaned_data, here("data", "analysis_data", "map_cleaned_data.csv"))
+write_csv(pie_chart_data, here("data", "analysis_data", "pie_chart_data.csv"))
+write_csv(bar_chart_data, here("data", "analysis_data", "bar_chart_data.csv"))
+write_csv(line_chart_data, here("data", "analysis_data", "line_chart_data.csv"))
