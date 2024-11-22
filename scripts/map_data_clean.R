@@ -41,6 +41,18 @@ map_cleaned_data <- map_cleaned_data %>%
     unit = "grams"
   )
 
+# update emit_way values
+map_cleaned_data <- map_cleaned_data %>%
+  mutate(
+    emit_way = case_when(
+      emit_way == "Releases to Water Bodies" ~ "water",
+      emit_way == "Releases to Land" ~ "land",
+      emit_way == "Releases to Air" ~ "air",
+      emit_way == "Sum of release to all media (<1tonne)" ~ "all",
+      TRUE ~ emit_way
+    )
+  )
+
 # data aggregation
 map_cleaned_data <- map_cleaned_data %>%
   group_by(
@@ -53,9 +65,43 @@ map_cleaned_data <- map_cleaned_data %>%
     unit
   ) %>%
   summarize(
-    quantity = sum(quantity, na.rm = TRUE),  # Sum the quantities, ignoring NAs
-    .groups = "drop"  # Ungroup after summarizing
+    quantity = sum(quantity, na.rm = TRUE),
+    .groups = "drop"
   )
 
 #### Save Data ####
 write_csv(map_cleaned_data, here("data", "analysis_data", "map_cleaned_data.csv"))
+
+
+
+#### By Province Data ####
+# summarize by province
+by_province <- map_cleaned_data %>%
+  group_by(province, unit) %>%
+  summarize(
+    total_quantity = sum(quantity, na.rm = TRUE),
+    .groups = "drop"
+  )
+
+#### Save By Province Data ####
+write_csv(by_province, here("data", "analysis_data", "map_by_province_data.csv"))
+
+
+
+#### By Substance Data ####
+# summarize by substance
+by_substance <- map_cleaned_data %>%
+  group_by(emit_way, substance, unit) %>%
+  summarize(
+    total_quantity = sum(quantity, na.rm = TRUE),
+    .groups = "drop"
+  )
+
+#### Save By Province Data ####
+write_csv(by_substance, here("data", "analysis_data", "map_by_substance_data.csv"))
+
+
+
+
+
+
