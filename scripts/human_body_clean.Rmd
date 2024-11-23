@@ -74,4 +74,4 @@ condensed_data <- filtered_data %>%
     Units = first(Units)  # Retain the first unit for each substance
   )
 
-
+write_csv(human_body_data, "human_body_data.csv")
