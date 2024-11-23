@@ -74,6 +74,22 @@ write_csv(map_cleaned_data, here("data", "analysis_data", "map_cleaned_data.csv"
 
 
 
+#### AB Data ####
+# filter for province AB
+AB_data <- map_cleaned_data %>%
+  filter(province == "AB") %>%  # Filter for province AB
+  mutate(facility = tolower(facility)) %>%  # Convert facility names to lowercase to ignore case differences
+  group_by(NPRI_id, province, unit, facility, substance) %>%
+  summarize(
+    quantity = sum(quantity, na.rm = TRUE),  # Sum quantities across facilities for each substance
+    .groups = "drop"
+  )
+
+#### Save Data ####
+write_csv(AB_data, here("data", "analysis_data", "map_AB_data.csv"))
+
+
+
 #### By Province Data ####
 # summarize by province
 by_province <- map_cleaned_data %>%
