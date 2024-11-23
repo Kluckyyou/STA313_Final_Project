@@ -1,5 +1,5 @@
 ---
-title: "STA313"
+title: "human_body_clean"
 output: html_document
 date: "`r Sys.Date()`"
 ---
