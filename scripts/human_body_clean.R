@@ -1,9 +1,6 @@
-
-data <- read.csv("C:/Users/q2900/Downloads/NPRI-INRP_ReleasesRejets_1993-present.csv", fileEncoding = "latin1")
-
 library(dplyr)
 library(tidyr)
-
+data <- read.csv("C:/Users/q2900/Downloads/NPRI-INRP_ReleasesRejets_1993-present.csv", fileEncoding = "latin1")
 cleaned_data <- data %>%
   select(
     Reporting_Year,             
@@ -17,6 +14,7 @@ cleaned_data <- data %>%
 cleaned_data <- cleaned_data %>%
   drop_na()
 
+#Choose top 15 substance
 top_substances <- data %>%
   group_by(`Substance.Name..English.`) %>%
   summarize(Count = n()) %>%
@@ -41,17 +39,4 @@ substances_of_interest <- c(
 )
 filtered_data <- cleaned_data %>%
   filter(`Substance.Name..English.` %in% substances_of_interest)
-head(filtered_data)
-
-filtered_data$Facility_Nam <- ifelse(is.na(filtered_data$Facility_Nam), "", as.character(filtered_data$Facility_Nam))
-
-
-condensed_data <- filtered_data %>%
-  group_by(Substance.Name..English.) %>%
-  summarise(
-    Quantity = sum(Quantity, na.rm = TRUE),
-    Facility_Nam = paste(unique(Facility_Nam), collapse = ", "),  # Combine unique facility names
-    Units = first(Units)  # Retain the first unit for each substance
-  )
-
 write_csv(human_body_data, "human_body_data.csv")
