@@ -12,8 +12,26 @@ library(sf)
 coor_data <- read_csv(here("data", "analysis_data", "map_coordinate_data.csv"),
                       show_col_types = FALSE)
 
-cleaned_data <- read_csv(here("data", "analysis_data", "map_AB_data.csv"),
+cleaned_data <- read_csv(here("data", "analysis_data", "map_cleaned_data.csv"),
                          show_col_types = FALSE)
+
+
+
+#### Filter Data (for developing) ####
+# Filter province AB
+coor_data <- coor_data %>%
+  filter(province == "AB") %>%
+  select(-province)
+
+# Filter province AB
+cleaned_data <- cleaned_data %>%
+  filter(province == "AB") %>%
+  mutate(facility = tolower(facility)) %>%
+  group_by(NPRI_id, province, unit, facility, substance) %>%
+  summarize(
+    quantity = sum(quantity, na.rm = TRUE),
+    .groups = "drop"
+  )
 
 
 
