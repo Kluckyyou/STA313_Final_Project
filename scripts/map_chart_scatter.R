@@ -1,5 +1,6 @@
 #### Setup ####
 # load Libraries
+library(htmlwidgets)
 library(lubridate)
 library(ggplot2)
 library(leaflet)
@@ -57,7 +58,7 @@ aggregated_data <- combined_data %>%
 aggregated_data_sf <- st_as_sf(aggregated_data, coords = c("longitude", "latitude"), crs = 4326)
 
 # Create an interactive map to visualize the facilities and their aggregated emissions
-leaflet(aggregated_data_sf) %>%
+coor_map <- leaflet(aggregated_data_sf) %>%
   addTiles() %>%
   addCircleMarkers(
     radius = ~log(total_quantity + 1) * 0.6,
@@ -74,5 +75,9 @@ leaflet(aggregated_data_sf) %>%
     )
   )
 
+
+
+#### Save HTML ####
+saveWidget(coor_map, file = here("plots", "map_scatter.html"))
 
 
