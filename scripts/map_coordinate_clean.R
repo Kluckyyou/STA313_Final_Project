@@ -17,6 +17,7 @@ coor_data <- read_csv(here("data", "raw_data", "NPRI-INRP_GeolocationsGeolocalis
 map_coordinate_data <- coor_data %>%
   select(
     NPRI_id = `NPRI ID / ID INRP`,
+    province = `Province / Province`,
     latitude = `Latitude / Latitude`,
     longitude= `Longitude / Longitude`
   )
